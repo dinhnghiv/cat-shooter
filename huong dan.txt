@@ -1,0 +1,4 @@
+file main là để chạy game hoàn chỉnh >> dùng cái này để chạy game
+file 30fps là file test để thử chạy từng phần
+file ray (OK) là file test để thử chạy song song 2 hàm cùng lúc, hiện không xài nhưng vẫn chạy được
+file config.py là file lưu đường dẫn của resource của game
